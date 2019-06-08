@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
-INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
-INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
-INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
+ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/melody/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/accaceefc4856468d361cdab28524bd2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /home/melody/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1cb05fce9ff7ad66f32cd56b082a77bd/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/melody/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e57fe2d433a1ca47bb7a9f0ed5d9e578/AndroidManifest.xml:17:1-22:12
@@ -15,57 +15,55 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/melody/.gradle/ca
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/melody/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/84a0f0aaaf47a62bb0bfdcf6578e3418/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/melody/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afbee0691efbd2966a935ff8651ad1fd/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/melody/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f306fae0fe067012b5bec95a0e65eced/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
-INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
-INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
+INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
 	package
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
 		INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
 		INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:2:5-51
 	android:versionCode
 		INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-24:12
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:1-23:12
 		INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:6:5-23:19
+ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:6:5-22:19
 	android:supportsRtl
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:10:9-41
 	tools:ignore
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:14:9-60
-	android:roundIcon
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:13:9-60
 	android:icon
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:12:9-40
 	android:name
 		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:7:9-28
 activity#cn.pjt.cframe.MainActivity
-ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:17:9-22:20
+ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:16:9-21:20
 	android:name
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:17:19-47
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
-ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:18:13-21:29
+ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:20:17-76
+ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:20:27-73
+		ADDED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml:19:27-73
 uses-sdk
 INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/melody/Android/workspace/ComponentFrame/app/src/main/AndroidManifest.xml
