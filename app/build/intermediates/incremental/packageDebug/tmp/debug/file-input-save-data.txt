@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Sat Jun 08 22:24:43 CST 2019
-0.baseType=DIRECTORY
-0.base=/home/melody/Android/workspace/ComponentFrame/app/build/intermediates/transforms/dexMerger/debug/0
-0.path=classes.dex
-0.set=DEX
-count=1
