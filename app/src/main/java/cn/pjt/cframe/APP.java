@@ -1,6 +1,6 @@
 package cn.pjt.cframe;
 
-import android.app.Application;
+import cn.pjt.base.BaseApplication;
 
-public class APP extends Application {
+public class APP extends BaseApplication {
 }
